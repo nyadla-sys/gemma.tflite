@@ -1,4 +1,4 @@
-# gemma.tflite
+# gemma.tflite(Required  Colab Pro + A100 runtime
 
 ## Convert Openai-whisper ASR tf saved to tflite model
 <table class="tfo-notebook-buttons" align="left">
